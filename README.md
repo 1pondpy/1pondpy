@@ -1,10 +1,10 @@
 <h1 align="center">Hai hai kub 👋 I'm Pondpy</h1>
-<h3 align="center">Patcharaphon Lapchumsri | 20 Years Old | CS Student @ Suranaree University of Technology</h3>
+<h3 align="center">Patcharaphon Lapchumsri | 20 Years Old</h3>
 
 <h3 align="left">About Me:</h3>
 
 <ul>
-<li>🎓 Computer Science Student at Suranaree University of Technology | Since 2024 (SUT)</li>
+<li>🎓 Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024</li>
 <li>💻 Interested in Software Development and Technology</li>
 <li>🗄️ Interested in Database and Networks</li>
 <li>🌏 Languages: Thai (Native), English (Advanced - CEFR C1)</li>
