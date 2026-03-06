@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋 I'm Pondpy</h1>
-<h3 align="center">20 Years Old | CS Student @ Suranaree University of Technology</h3>
+<h1 align="center">Hai hai kub 👋 I'm Pondpy</h1>
+<h3 align="center">Patcharaphon | 20 Years Old | CS Student @ Suranaree University of Technology</h3>
 
 <h3 align="left">About Me:</h3>
 
 <ul>
-<li>🎓 Computer Science Student at Suranaree University of Technology (SUT)</li>
+<li>🎓 Computer Science Student at Suranaree University of Technology | Since 2024(SUT)</li>
 <li>💻 Interested in Software Development and Technology</li>
-<li>🗄️ Interested in Database Systems and Computer Networks</li>
-<li>🌱 Currently learning Algorithms, Web Development, and Programming</li>
-<li>🚀 Improving my coding skills through projects</li>
+<li>🗄️ Interested in Database and Networks</li>
 <li>🌏 Languages: Thai (Native), English (Advanced - CEFR C1)</li>
 </ul>
 
