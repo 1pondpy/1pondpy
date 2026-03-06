@@ -1,4 +1,4 @@
-<h1 align="center">Hai hai kub 👋 I'm Pondpy</h1>
+<h1 align="center">Hai hai kub I'm Pondpy~</h1>
 <h3 align="center">Patcharaphon Lapchumsri | 20 Years Old</h3>
 
 <h3 align="left">About Me:</h3>
