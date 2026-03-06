@@ -1,29 +1,13 @@
 <h1 align="center">Hai hai kub 👋 I'm Pondpy</h1>
-<h3 align="center">Patcharaphon | 20 Years Old | CS Student @ Suranaree University of Technology</h3>
+<h3 align="center">Patcharaphon Lapchumsri | 20 Years Old | CS Student @ Suranaree University of Technology</h3>
 
 <h3 align="left">About Me:</h3>
 
 <ul>
-<li>🎓 Computer Science Student at Suranaree University of Technology | Since 2024(SUT)</li>
+<li>🎓 Computer Science Student at Suranaree University of Technology | Since 2024 (SUT)</li>
 <li>💻 Interested in Software Development and Technology</li>
 <li>🗄️ Interested in Database and Networks</li>
 <li>🌏 Languages: Thai (Native), English (Advanced - CEFR C1)</li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/1pondpy_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1pondpy_" height="30" width="40" />
-</a>
-</p>
-
-<h3 align="left">Currently Learning:</h3>
-
-<ul>
-<li>Algorithms & Data Structures</li>
-<li>Database Systems</li>
-<li>Computer Networks</li>
-<li>Web Development</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
