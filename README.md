@@ -4,10 +4,9 @@
 <h3 align="left">About Me:</h3>
 
 <ul>
-<li>🎓 Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024</li>
-<li>💻 Interested in Software Development and Technology</li>
-<li>🗄️ Interested in Database and Networks</li>
-<li>🌏 Languages: Thai (Native), English (Advanced - CEFR C1)</li>
+<li>Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024</li>
+<li>Interested in Database and Networks</li>
+<li>Languages: Thai as a Native, English (Advanced - CEFR C1)</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
