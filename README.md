@@ -22,8 +22,7 @@
 * `Microsoft .NET`
 * `Node.js`
 * `Laravel` (PHP Framework)
-* `AJAX`
-* `JSON`
+* `AJAX` / `JSON`
 
 #### Databases & Management
 * `SQL` / `PL/SQL`
@@ -31,9 +30,17 @@
 * `MySQL`
 * `Oracle`
 * `phpMyAdmin`
+* `Database Design (ERD & Relational Database)`
 
-#### Networking, DevOps
+#### Data Science
+* `Pandas`
+* `NumPy`
+* `Matplotlib`
+
+#### Networking, DevOps & Virtualization
 * `Cisco Packet Tracer`
 * `Docker`
 * `VMware`
 * `VirtualBox`
+* `Linux (Ubuntu)`
+* `Git` / `GitHub`
