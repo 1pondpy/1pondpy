@@ -4,6 +4,7 @@
 * **Education:** Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024
 * **Interests:** Highly interested in Database Systems and Networks
 * **Languages:** Thai (Native), English (Advanced - CEFR C1)
+* **Fun Fact:** Fast typer with **98 WPM** (tested on a 5-minute duration)
 
 ---
 
