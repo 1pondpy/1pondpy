@@ -1,15 +1,15 @@
-# 🚀 Hai hai kub I'm Pondpy~
+# Hai hai kub I'm Pondpy~
 
-### 👤 About Me
-* 🎓 **Education:** Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024
-* 🎯 **Interests:** Highly interested in Database Systems and Networks
-* 🗣️ **Languages:** Thai (Native), English (Advanced - CEFR C1)
+### About Me
+* **Education:** Currently studying Computer Science at Suranaree University of Technology (SUT) | Since 2024
+* **Interests:** Highly interested in Database Systems and Networks
+* **Languages:** Thai (Native), English (Advanced - CEFR C1)
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
-#### 💻 Programming Languages
+#### Programming Languages
 * `C` / `C++`
 * `Java`
 * `JavaScript`
@@ -17,7 +17,7 @@
 * `Python`
 * `Visual Basic`
 
-#### 🌐 Web & Backend Development
+#### Web & Backend Development
 * `HTML5` / `CSS3`
 * `Microsoft .NET`
 * `Node.js`
@@ -25,14 +25,15 @@
 * `AJAX`
 * `JSON`
 
-#### 🛢️ Databases & Management
+#### Databases & Management
 * `SQL` / `PL/SQL`
 * `Microsoft SQL Server`
 * `MySQL`
 * `Oracle`
 * `phpMyAdmin`
 
-#### 🚀 Networking, DevOps & Design
+#### Networking, DevOps
 * `Cisco Packet Tracer`
 * `Docker`
-* `Adobe Photoshop`
+* `VMware`
+* `VirtualBox`
