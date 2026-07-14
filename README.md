@@ -13,8 +13,8 @@
 #### Programming Languages
 * `C` / `C++`
 * `Java`
-* `JavaScript`
-* `PHP`
+* `JavaScript` (Web Development)
+* `PHP` (Web & Server-side)
 * `Python`
 * `Visual Basic`
 
